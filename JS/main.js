@@ -21,3 +21,4 @@ function currentTime() {
 
 //calling the function
 currentTime();
+
