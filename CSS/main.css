@@ -3,11 +3,13 @@
   padding: 0; }
 
 html, body {
-  height: 100%; }
+  height: 100%; 
+  font-family: 'Lato', sans-serif;
+}
 
 #clock {
-  color: red;
-  font: 128px/128px Lato;
+  color: #FFF;
+  font-size: 128px;
   height: auto;
   /*Vertical centering*/
   position: relative;
